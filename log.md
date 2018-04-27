@@ -10,21 +10,13 @@
 **Link to work:** No link to work, since I just started out and wasn't prepared to upload anything.
 
 
-### Day 2: February 27, 2018
+### Day 2: April 27, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through Chapter 9 (Recursive) and Chapter 10 (Strings). Solved the remaining exercises from Chapter 8, the exercises from Chapter 9 and started with the String exercises.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Recursive Functions were tough. I quickly grasped the concept but creating my own funtions and understanding what exactly is happening took a lot of time.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: 
+https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a87e0cffc04145/Pythonbook%C3%9Cbungen8.1.py
+https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a87e0cffc04145/Pythonbook%C3%9Cbungen9.py
+https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a87e0cffc04145/Pythonbook%C3%9Cbungen10.py
