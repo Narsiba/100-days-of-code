@@ -1,16 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 26, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through Chapter 7 (Iterations) and 8 (Functions) of "The coder's apprentice" Solved exercises 7.11-7.16 and exercises 8.1-8.5.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Still struggling with the Monkey and Coconut Challenge. No link to work, since I just started out and wasn't prepared to upload anything.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** No link to work, since I just started out and wasn't prepared to upload anything.
+
+
+### Day 2: February 27, 2018
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
