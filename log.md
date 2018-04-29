@@ -20,3 +20,14 @@
 https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a87e0cffc04145/Pythonbook%C3%9Cbungen8.1.py
 https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a87e0cffc04145/Pythonbook%C3%9Cbungen9.py
 https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a87e0cffc04145/Pythonbook%C3%9Cbungen10.py
+
+### Day 3: April 28, 2018
+
+**Today's Progress**: Worked through Chapter 11 (Tuples) and started Chapter 12 (Lists). Signed up on Codewars and solved my first Kata.
+
+**Thoughts**: I was mentally very exhausted by the time I started coding and didn't feel like solving many exercises.
+
+### Day 4: April 29, 2018
+
+**Today's Progress**: Solved exercise 10.4 but got stuck on exercise 10.5. Spent a lot of time, trying to solve it but I still wasn't able to. At least I solved a Codewars Kata.
+**Thoughts**: How can I spend and hour with two small exercises?!?
