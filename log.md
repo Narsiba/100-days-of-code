@@ -30,9 +30,11 @@ https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a
 ### Day 4: April 29, 2018
 
 **Today's Progress**: Solved exercise 10.4 but got stuck on exercise 10.5. Spent a lot of time, trying to solve it but I still wasn't able to. At least I solved a Codewars Kata.
+
 **Thoughts**: How can I spend and hour with two small exercises?!?
 
 ### Day 5: April 30, 2018
 
 **Today's Progress**: Worked through the Chapter on Lists and solved the exercises on tuples.
+
 **Thoughts**: 1 hour is always over so quickly.
