@@ -44,3 +44,9 @@ https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a
 **Today's Progress**: Turns out Chapter 12 about Lists wasn't finished. Learned about aliasing, deepcopies, and list comprehension. Solved some exercises.
 
 **Thoughts**: I prefer lists to strings.
+
+### Day 7: May 2, 2018
+
+**Today's Progress**: Lists, lists, lists. Solving exercises.
+
+**Thoughts**: One hour just doesn't seem to  b enough time to make progress.
