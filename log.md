@@ -55,4 +55,12 @@ https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a
 
 **Today's Progress**: TicTacToe Game 
 
-**Thoughts**: Still stuck with wordcount exercise.
+**Thoughts**: Still stuck with letter count exercise.
+
+
+### Day 9: May 4, 2018
+
+**Today's Progress**: Finished TicTacToe Game, found solution to letter_count function and halfway through programming a battleship game.
+
+**Thoughts**: list functions don't return the list, the just mutate it.
+
