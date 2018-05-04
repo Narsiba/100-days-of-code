@@ -50,3 +50,9 @@ https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a
 **Today's Progress**: Lists, lists, lists. Solving exercises.
 
 **Thoughts**: One hour just doesn't seem to  b enough time to make progress.
+
+### Day 8: May 3, 2018
+
+**Today's Progress**: TicTacToe Game 
+
+**Thoughts**: Still stuck with wordcount exercise.
