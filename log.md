@@ -64,3 +64,11 @@ https://github.com/Narsiba/Pythonbook-Exercises/blob/3d2fad1699ed73edaf1080a3f8a
 
 **Thoughts**: list functions don't return the list, the just mutate it.
 
+### Day 10: May 5, 2018
+
+**Today's Progress**: Finished Battleship Game, worked on the Dictionaries chapter.
+
+**Thoughts:** Quite a bit of coding today. First idea for an app but require more knowledge about Python.
+
+**Link to work:** 
+https://github.com/Narsiba/Pythonbook-Exercises/blob/4dd4dc5287da68860e6e2ec20d04423a2274eccc/TicTacToe.py
